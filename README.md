@@ -1,2 +1,2 @@
 # CGMP
-Swift module for the GNU Multiple Precision Arithmetic Library
+Swift module for the GNU Multiple Precision Arithmetic Library (gmp)
